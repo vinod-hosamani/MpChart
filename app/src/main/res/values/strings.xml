@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Seller Mode</string>
+
+
+    <string name="country_prompt">Choose a country</string>
+    <string-array name="country_arrays">
+    <item>Show Amount</item>
+    <item>ten thousant</item>
+    <item>twenty thousand</item>
+    </string-array>
+</resources>
